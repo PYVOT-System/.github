@@ -5,7 +5,7 @@
 
 <!-- Typing animation tagline -->
 <a href="https://pyvot.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=定義成長的支點。;Data+that+grows+with+your+child.;幼教數位化的全新起點。;From+3+years+old+to+a+lifetime+of+insight." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=%E5%AE%9A%E7%BE%A9%E6%88%90%E9%95%B7%E7%9A%84%E6%94%AF%E9%BB%9E%E3%80%82%3BData%20that%20grows%20with%20your%20child.%3B%E5%B9%BC%E6%95%99%E6%95%B8%E4%BD%8D%E5%8C%96%E7%9A%84%E5%85%A8%E6%96%B0%E8%B5%B7%E9%BB%9E%E3%80%82%3BFrom%203%20years%20old%20to%20a%20lifetime%20of%20insight." alt="Typing SVG" />
 </a>
 
 <br/>
